@@ -1,10 +1,10 @@
 # images_crops
 A Computer Vision Model to associate images with respective crops
-# Sample Image
+## Sample image
 ![Image](/screenshots/images0.jpg?raw=true)
-# Sample Crop
+## Sample crop
 ![Crop](/screenshots/crops153.jpg?raw=true)
-# Sample Associated Image with Crop
+## Sample associated image with crop
 ![Image-crop](/screenshots/images0-crops153.jpg?raw=true)
-# Overall Model Results
+## Overall model Results
 ![Result chart](/screenshots/output_chart.jpg?raw=true)
